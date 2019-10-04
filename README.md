@@ -1,6 +1,6 @@
 # Portfolio
  Portfolio Samples
- 3D modeled Cave from the game Hellevator, I was the producer, designer, 3D modeler, and particle effects.
+ 3D modeled Cave from the game Hellevator, I was the producer, designer, 3D modeler, and created the particle effects.
  Eyeball character from the game Hellevator, I created the geometry, textures, and animation.
  Pool Hall Render, Maya 3D
  
