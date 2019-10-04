@@ -6,9 +6,12 @@
  
  Also see:
  https://github.com/DavidKKimball
+ 
  https://davidkkimball.itch.io/
+
  https://globalgamejam.org/users/davidkkimball
 
  Other:
  https://www.youtube.com/watch?v=H5PJRBJhVik
+
  https://www.youtube.com/watch?v=NeJYV-PPfQA
