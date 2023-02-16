@@ -1,10 +1,17 @@
 # Portfolio
- Portfolio Samples
- 3D modeled Cave from the game Hellevator, I was the producer, designer, 3D modeler, and created the particle effects.
- Eyeball character from the game Hellevator, I created the geometry, textures, and animation.
- Pool Hall Render, Maya 3D
+Listed are Directories containing Media and Software created by David Kimball as well as others in a School/Game Jam/Professional setting credited or otherwise specified.
+
+2D Art - Concept art of personal animation project.
+
+3D Renders - Render created with Maya3D.
+
+Arduino/Python - C++ and Python GUI based software to interface with a series of Arduino boards attached to stepper motors. The goal of the project was reduce manual labor for science and materials lab specific tasks 
+with customizable automation and interfaces. Utilizing Python and Arduino C++ and highlighting the concepts outlined in the paper for a multitude of different applications inside and out of the lab setting.
+
+Games Created With Unity3D - Directory contains games and their executables created for use on Desktop, Mobile, and Oculus Quest. 
+
  
- Also see:
+Also see:
 
  https://github.com/DavidKKimball
  
